@@ -54,16 +54,3 @@ To protect data consistency across highly coupled assets and portfolios, the sys
 * **Strict Enumeration Controls:** Hardcoded parameters enforcing risk bounds (`LOW`, `MEDIUM`, `HIGH`) and market directions (`BUY`, `SELL`, `HOLD`).
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-* **Database Engine:** PostgreSQL (v12+ recommended)
-* **Database Client:** pgAdmin, DBeaver, or the `psql` CLI.
-
-### Installation & Initialization
-
-1. Clone this repository to your local architecture:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
